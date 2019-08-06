@@ -7,3 +7,5 @@ cambio rama fastforward
 cambio rama fastforward2
 
 cambio olvidado
+
+añado para el remoto
