@@ -9,3 +9,5 @@ cambio rama fastforward2
 cambio olvidado
 
 añado para el remoto
+
+otro cambio sin push a remoto
