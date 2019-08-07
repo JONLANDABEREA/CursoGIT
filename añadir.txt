@@ -3,4 +3,4 @@ añado un txt nuevoa otro commmit
 pruebas para las pruebas de github
 
 
-prueba GIT2
+prueba clonando GIT2 desde github
