@@ -1,6 +1,7 @@
-añado un txt nuevoa otro commmit
+añado un txt nuevo otro commmit
 
 pruebas para las pruebas de github
 
-
 prueba clonando GIT desde github
+
+prueba de bajar cambios realizados online en github
